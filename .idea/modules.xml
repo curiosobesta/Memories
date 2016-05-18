@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Memories.iml" filepath="$PROJECT_DIR$/Memories.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blurimg/blurimg.iml" filepath="$PROJECT_DIR$/blurimg/blurimg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blurry/blurry.iml" filepath="$PROJECT_DIR$/blurry/blurry.iml" />
+    </modules>
+  </component>
+</project>

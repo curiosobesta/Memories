@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="sagar.memories">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.FullScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="Members"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".slider.GridViewActivity"
+            android:label="@string/title_activity_gallery"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name=".slider.FullScreenViewActivity"
+            android:label="FullScreenView"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BlurImageTest"
+            android:label="@string/title_activity_blur_image_test"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name=".AboutPerson"
+            android:label="@string/title_activity_about_person"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+    </application>
+
+</manifest>
