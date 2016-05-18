@@ -9,5 +9,6 @@ Android App That I make for friends on farewell<br>
   <li>Zooming Background</li>
   <li>Handling heavy bitmaps</li>
   <li>Animate using xml animations</li>
-  <li>Hiding fabs with animations</li>
+  <li>Hiding and showing fabs with animations</li>
+  <li>Overriding Transitions</li>
 </ol>
