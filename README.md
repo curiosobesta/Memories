@@ -11,4 +11,5 @@ Android App That I make for friends on farewell<br>
   4. Animate using xml animations
   5. Hiding and showing fabs with animations
   6. Overriding Transitions
+  7. Customizing Dialogs
 ```
