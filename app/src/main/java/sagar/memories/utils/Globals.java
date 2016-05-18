@@ -26,10 +26,7 @@ public class Globals {
     final public static String KEY_KRISHNA = "krishna";
     final public static String KEY_SUVI = "suvi";
 
-    public static final String PASS_ADI = "anshu";
-    public static final String PASS_DIPAN = "chutiya";
-    public static final String PASS_KRISHNA = "dipan chutiya";
-    public static final String PASS_SUVI = "unknown";
+    
 
     public static String THEME_PERSON;
 
